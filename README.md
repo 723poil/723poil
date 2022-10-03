@@ -1,16 +1,19 @@
-### Hi there 👋
 
-<!--
-**723poil/723poil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=723poil&layout=compact&theme=aura_dark"></img>
+
+  <div align="left">
+  
+  ### 723poil 🎃
+    
+  ---
+    
+  <a href="https://velog.io/@723poil"><img src="https://img.shields.io/badge/723poil.log-20C997?style=flat-square&logo=velog&logoColor=white"/></a> 
+
+  [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=leetkdguq73)](https://solved.ac/leetkdguq73)
+  
+  </div>
+
+</div>
