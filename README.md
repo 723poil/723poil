@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=723poil&layout=compact&theme=aura_dark"></img>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=723poil&layout=compact"></img>
 
   <div align="left">
   
